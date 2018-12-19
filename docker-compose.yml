@@ -18,3 +18,4 @@ services:
       - AWS_REGION=${AWS_REGION}
       - SOLAREDGE_ENDPOINT=${SOLAREDGE_ENDPOINT}
       - INTERVAL=120
+      - METERS=1
