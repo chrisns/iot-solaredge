@@ -10,7 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.379.0",
+    "aws-sdk": "^2.577.0",
     "solaredge-modbus-client": "github:chrisns/solaredge-modbus-client#meters"
   }
 }
